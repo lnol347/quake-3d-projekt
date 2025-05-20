@@ -10,3 +10,4 @@ U slucaju da folder 'ID1' nije prisutan u instalaciji:
 
 'project.map' je prisutan u slucaju da zelite pregledati razinu koristeci Trenchbroom
 
+![test](https://github.com/lnol347/quake-3d-projekt/blob/main/slike/project_2024-08-13_19-31-18.png)
